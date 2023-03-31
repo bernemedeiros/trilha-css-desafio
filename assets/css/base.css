@@ -124,6 +124,7 @@ footer {
   text-align: center;
   border-top: 1px solid #33A8DB;
   padding: 40px;
+  background-image: linear-gradient(rgba(50, 168, 219, .0), rgba(50, 168, 219, .2));
 }
 
 footer a {
